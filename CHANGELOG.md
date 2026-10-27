@@ -1,5 +1,11 @@
 # shopify-plugin
 
+## 2.3.0
+
+### Minor Changes
+
+- 6e5d215: Add Shopify Flow workflow discovery, configuration, and management through the Admin API, with workflow examples and a bundled unstable schema for validation.
+
 ## 2.2.0
 
 ### Minor Changes
